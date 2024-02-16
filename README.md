@@ -7,6 +7,10 @@ Welcome to the Social Networking API using NoSQL Mongoose and Mongo Compass data
 - Users are able to CREATE, UPDATE, and REMOVE thoughts 
 - Users are able to then CREATE and REMOVE reactions to other user's thoughts
 
+- NOTE*** friends are sorted in an array associated with users 
+- NOTE*** reactions are sorted in an array associated with thoughts
+- BOTH are tallied up in a total using mongoose virtuals
+
 ALL of these endpoints are able to be tested and proven in insomnia and video demonstration can be found in the README.md
 
 ## User Story
