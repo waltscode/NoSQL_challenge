@@ -39,6 +39,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ![Alt text](image.png)
 
+![Alt text](image-1.png)
+
 ## Video Demonstration
 
 https://youtu.be/D-0XF7XmPsw 
